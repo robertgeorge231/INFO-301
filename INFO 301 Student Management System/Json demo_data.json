@@ -1,0 +1,56 @@
+{
+  "students": {
+    "8011": {
+      "id": "8011",
+      "name": "Robert George",
+      "Section": "3",
+      "date_of_birth": "2004-04-20",
+      "gender": "Female",
+      "phone": "055-584-3493"
+    }
+  },
+  "teachers": {
+    "0012": {
+      "id": "0012",
+      "name": "Mr.Dolokeleh",
+      "qualification": "BSc Education",
+      "subjects": [
+        "INFO301"
+      ],
+      "phone": "055-843-493",
+      "Section": [
+        "3"
+      ]
+    }
+  },
+  "subjects": {
+    "1": {
+      "id": "1",
+      "name": "INFO301",
+      "Section": [
+        "3"
+      ]
+    }
+  },
+  "grades": {
+    "1": {
+      "id": "1",
+      "name": "section3"
+    }
+  },
+  "enrollments": [
+    {
+      "student_id": "8011",
+      "Section": "3",
+      "date": "2025-03-04"
+    }
+  ],
+  "scores": [
+    {
+      "student_id": "8011",
+      "teacher_id": "0012",
+      "subject": "INFO301S",
+      "score": 87"87(b)"
+    }
+  ]
+}

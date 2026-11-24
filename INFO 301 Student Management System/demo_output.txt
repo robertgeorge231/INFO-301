@@ -1,0 +1,17 @@
+SCHOOL MANAGEMENT SYSTEM - DEMONSTRATION
+
+[1] Students by SECTION: Section3
+
+ID     Name                 Status        DOB          Gender   Phone
+--------------------------------------------------------------------------
+80111   Robert George         Junior II 2004-04-20   Male   055-843-493
+
+[2] Enrollment history
+8011 - enrolled in Section 3 on 2025-03-04
+
+[3] Score report and totals
+Student: Robert George (8011) | Course: INFO 301 | Score: 87 | Teacher: Mr. Dolokeleh
+Totals -> Students: 1 | Teachers: 1 | Subjects: 1 | Grades: 1
+
+[4] Persistence check: data saved to demo_data.json
+Reloaded 1 student(s) successfully.
